@@ -20,7 +20,7 @@ If is your first time playing the game, start by just sending *#newcat* to regis
 OK, you will receive a confirmation message on the chat and can start your flight by using #catfly! 
 
 After starting a flight, your place will be defined as "Sky" and you can't start a new flight before finishing the
-current one. For this first version of the game, there is only two routes available (Campinas -> Rio, Rio <- Campinas)
+current one. For this first version of the game, there are only two routes available (Campinas -> Rio, Rio <- Campinas)
 that takes 1 hour and 15 minutes to finish. Everytime you start a flight, it defines the route based on your last's
 flight destiny (that is your current location).
 

@@ -1,0 +1,7 @@
+twitchToken = 'Your Twitch API Token (register your app and get it at: https://dev.twitch.tv/docs/authentication/register-app/)'
+channelName = 'Channel Name'
+dbHost = 'SQL Database Host Name'
+dbPort = 'SQL Database Port'
+dbUser = 'SQL Database Username'
+dbPass = 'SQL Database Password'
+dbName = 'SQL Database Name'

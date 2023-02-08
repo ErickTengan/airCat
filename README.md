@@ -2,11 +2,17 @@
 # airCat v0.1
 >airCat is a text-based airline simulation game made in Python where players can become "pilots-cats" and
 start virtual flights directly from streamer's Twitch chat using commands starting with '#'. The players can accumulate
-flight hours and get to higher ranks. 
+flight hours and get to higher ranks as they keep flying for the virtual company.
 
 >airCat é um jogo de simulação de companhia aérea baseado em texto feito em Python onde os jogadores podem
-se tornar "gatos-pilotos" e iniciar voos virtuais diretamente do chat da Twitch. Os
-jogadores podem acumular horas e atingir ranks mais altos. 
+se tornar "gatos-pilotos" e iniciar voos virtuais diretamente do chat da Twitch. Os jogadores podem acumular horas e 
+atingir ranks mais altos conforme voam pela companhia virtual.
+
+You can either use the code as a template for your project or play the game on my Twitch channel's chat while i'm live!
+
+Você pode tanto usar esse código como modelo para seu projeto como jogar durante minhas lives na Twitch!
+
+[Twitch Channel](https://twitch.tv/elicktengan)
 
 ## How to play 
 

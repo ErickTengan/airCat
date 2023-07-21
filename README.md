@@ -12,13 +12,6 @@ You can either use the code as a template for your project or play the game on m
 
 Você pode tanto usar esse código como modelo para seu projeto como jogar durante minhas lives na Twitch!
 
-(update: the chatbot is now running on a Debian cloud server so it's always on! You can play it right now just typing
-commands on my twitch channel / o chatbot está rodando nesse momento num servidor Debian na nuvem, então está sempre
-ligado! Você pode jogar agora mesmo mandando comandos no meu canal na Twitch mesmo com a live offline.)
-
-
-[Twitch Channel](https://twitch.tv/elicktengan)
-
 ## How to play 
 
 If is your first time playing the game, start by just sending *#newcat* to register as a new pilot. If everything's
